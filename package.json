@@ -1,25 +1,11 @@
 {
-  "name": "three-detector",
-  "description": "three.js detector component",
+  "name": "cvdlab-three-detector",
+  "description": "Three.js detector component",
   "version": "0.1.0",
-  "maintainers": [ 
-    {
-      "name": "Enrico Marino",
-      "email": "enrico.marino@email.com"
-    },
-    {
-      "name": "Federico Spini",
-      "email": "federico.spini@gmail.com"
-    }
+  "keywords": [
+    "three.js",
+    "detector"
   ],
-  "homepage": "https://github.com/cvdlab/three-detector",
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/cvdlab/three-detector.git"
-  },
-  "main": "index.js",
-  "engines": {
-    "node": "*"
-  },
-  "devDependencies": {}
+  "dependencies": {},
+  "license": "MIT"
 }
